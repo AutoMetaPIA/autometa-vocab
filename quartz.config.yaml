@@ -82,7 +82,7 @@ plugins:
     enabled: true
     order: 30
   - source: "@quartz-community/table-of-contents"
-    enabled: true
+    enabled: false
     order: 50
     layout:
       position: right
@@ -146,6 +146,9 @@ plugins:
     enabled: true
   - source: "@quartz-community/tag-page"
     enabled: true
+    options:
+      numPages: 50
+      prefixTags: false
   - source: "@quartz-community/explorer"
     enabled: true
     layout:
@@ -246,6 +249,15 @@ plugins:
         - description
         - tags
         - aliases
+        - vocab
+        - ML_area
+        - ML_task
+        - ML_approach
+        - lcsh
+        - lcshURI
+        - lcshAltLabel
+        - lcshBroader
+        - lcshNarrower
       excludedProperties: []
       hidePropertiesView: false
     order: 5
