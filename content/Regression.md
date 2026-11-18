@@ -29,14 +29,17 @@ lcshNarrower:
 lcshRelated:
   - "[[Structural equation modeling]]"
 ---
-## Scope note
+
+#### Scope note
 "Predicting continuous numerical values."  ([MetaAutoML GitHub repo](https://github.com/hochschule-darmstadt/MetaAutoML/blob/main/controller/managers/ontology/ML_Ontology.ttl))
-## Preferredness
 
-## Term relationships
-- BT: [[Supervised learning]]
-- NT: [[]]
-- RT: [[]]
-## Maps to external vocabularies
+#### Use for
 
+#### Broader terms
+- [[Supervised learning]]
 
+#### Narrower terms
+
+#### Related terms
+
+#### Maps to external vocabularies

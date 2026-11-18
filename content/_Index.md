@@ -15,7 +15,8 @@
 		- lcshAltLabel:: ["Selection and ranking (Statistics)"]
 		- lcshBroader:: ["[[Mathematical statistics]]"]
 		- lcshNarrower:: ["[[Scaling laws (Statistical physics)]]"]
-		- lcshRelated:: ["[[Order statistics]]"]## Scope note
+		- lcshRelated:: ["[[Order statistics]]"]
+#### Scope note
 		- "Ordering items in a set by criteria" ([MetaAutoML GitHub repo](https://github.com/hochschule-darmstadt/MetaAutoML/blob/main/controller/managers/ontology/ML_Ontology.ttl))
 	- [ ] check for sh for "Unsupervised learning"
 - [ ] whittle down lcsh BT, NT, and RT

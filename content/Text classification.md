@@ -6,12 +6,18 @@ ML_area:
 ML_task:
 ML_approach:
 ---
-## Scope note
+
+#### Scope note
 "Predicting categories (classes) for texts." ([MetaAutoML GitHub repo](https://github.com/hochschule-darmstadt/MetaAutoML/blob/main/controller/managers/ontology/ML_Ontology.ttl))
-## Preferredness
 
-## Term relationships
-- BT: [[Classification]]
-- BT: [[Natural language processing]]
-## Maps to external vocabularies
+#### Use for
 
+#### Broader terms
+- [[Classification]]
+- [[Natural language processing]]
+
+#### Narrower terms
+
+#### Related terms
+
+#### Maps to external vocabularies

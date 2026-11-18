@@ -6,11 +6,14 @@ ML_area:
 ML_task: true
 ML_approach:
 ---
-## Preferredness
 
-## Term relationships
-- BT: [[Supervised learning]]
-- NT: [[]]
-- RT: [[]]
-## Maps to external vocabularies
+#### Use for
 
+#### Broader terms
+- [[Supervised learning]]
+
+#### Narrower terms
+
+#### Related terms
+
+#### Maps to external vocabularies

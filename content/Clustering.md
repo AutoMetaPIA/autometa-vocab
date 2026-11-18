@@ -14,13 +14,18 @@ lcshNarrower:
   - "[[Document clustering]]"
   - "[[Hierarchical clustering (Cluster analysis)]]"
 ---
-## Scope note
+
+#### Scope note
 "Grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense or another) to each other than to those in other groups."  ([MetaAutoML GitHub repo](https://github.com/hochschule-darmstadt/MetaAutoML/blob/main/controller/managers/ontology/ML_Ontology.ttl))
-## Preferredness
 
-## Term relationships
-- BT: [[Unsupervised learning]]
-- RT: [[Classification]]
-## Maps to external vocabularies
+#### Use for
 
+#### Broader terms
+- [[Unsupervised learning]]
 
+#### Narrower terms
+
+#### Related terms
+- [[Classification]]
+
+#### Maps to external vocabularies

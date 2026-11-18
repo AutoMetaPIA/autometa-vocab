@@ -14,12 +14,17 @@ lcshAltLabel:
 lcshBroader:
   - "[[Artificial intelligence]]"
 ---
-## Scope note
-Source: []()
-## Preferredness
-- UF: [[GenAI]]
-## Term relationships
-- BT: [[Large language model]]
-## Maps to external vocabularies
 
+#### Scope note
 
+#### Use for
+- [[GenAI]]
+
+#### Broader terms
+- [[Large language model]]
+
+#### Narrower terms
+
+#### Related terms
+
+#### Maps to external vocabularies

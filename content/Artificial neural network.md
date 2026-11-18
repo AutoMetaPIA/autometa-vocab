@@ -23,18 +23,20 @@ lcshNarrower:
   - "[[Ensemble learning (Machine learning)]]"
   - "[[Generative artificial intelligence]]"
 ---
-## Scope note
+
+#### Scope note
 "Computational model used in machine learning, based on connected, hierarchical functions."  ([MetaAutoML GitHub repo](https://github.com/hochschule-darmstadt/MetaAutoML/blob/main/controller/managers/ontology/ML_Ontology.ttl))
-## Preferredness
 
-## Term relationships
-- BT: [[Supervised learning]]
-- BT: [[Unsupervised learning]]
-- NT: [[Large language model]]
-## Maps to external vocabularies
+#### Use for
 
-### LCSH
+#### Broader terms
+- [[Supervised learning]]
+- [[Unsupervised learning]]
 
+#### Narrower terms
+- [[Large language model]]
 
+#### Related terms
 
+#### Maps to external vocabularies
 

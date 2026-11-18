@@ -25,15 +25,19 @@ lcshNarrower:
   - "[[Generative adversarial networks (Computer networks)]]"
   - "[[Explanation-based learning]]"
 ---
-## Scope note
-Source: []()
-## Preferredness
 
-## Term relationships
-- BT: [[Artificial intelligence]]
-- NT: [[Reinforcement learning]]
-- NT: [[Supervised learning]]
-- NT: [[Unsupervised learning]]
-## Maps to external vocabularies
+#### Scope note
 
+#### Use for
 
+#### Broader terms
+- [[Artificial intelligence]]
+
+#### Narrower terms
+- [[Reinforcement learning]]
+- [[Supervised learning]]
+- [[Unsupervised learning]]
+
+#### Related terms
+
+#### Maps to external vocabularies

@@ -6,5 +6,6 @@ ML_area:
 ML_task: true
 ML_approach:
 ---
-## Preferredness
-- USE: [[Natural language processing]]
+
+#### Use instead
+- [[Natural language processing]]

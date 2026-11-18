@@ -16,14 +16,16 @@ lcshBroader:
   - "[[Natural computation]]"
   - "[[Artificial neural network]]"
 ---
-## Scope note
-Source: []()
-## Preferredness
 
-## Term relationships
-- BT: [[]]
-- NT: [[]]
-- RT: [[]]
-## Maps to external vocabularies
--  [](): 
+#### Scope note
 
+#### Use for
+
+#### Broader terms
+
+#### Narrower terms
+
+#### Related terms
+
+
+#### Maps to external vocabularies

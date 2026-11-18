@@ -17,16 +17,24 @@ lcshNarrower:
   - "[[Boosting (Algorithms)]]"
   - "[[Logistic regression analysis]]"
 ---
-## Scope note
-"Supervised learning (SL) is the machine learning area of learning a function that maps an input to an output based on example input-output pairs." ([MetaAutoML GitHub repo](https://github.com/hochschule-darmstadt/MetaAutoML/blob/main/controller/managers/ontology/ML_Ontology.ttl))
-## Preferredness
 
-## Term relationships
-- BT: [[Machine learning]]
-- NT: [[Artificial neural network]]
-- NT: [[Classification]]
-- NT: [[Named entity recognition]]
-- NT: [[Natural language processing]]
-- RT: [[Unsupervised learning]]
-- RT: [[Reinforcement learning]]
-## Maps to external vocabularies
+#### Scope note
+"Supervised learning (SL) is the machine learning area of learning a function that maps an input to an output based on example input-output pairs." ([MetaAutoML GitHub repo](https://github.com/hochschule-darmstadt/MetaAutoML/blob/main/controller/managers/ontology/ML_Ontology.ttl))
+
+#### Use for
+
+#### Broader terms
+- [[Machine learning]]
+
+#### Narrower terms
+- [[Artificial neural network]]
+- [[Classification]]
+- [[Named entity recognition]]
+- [[Natural language processing]]
+
+#### Related terms
+- [[Unsupervised learning]]
+- [[Reinforcement learning]]
+
+#### Maps to external vocabularies
+

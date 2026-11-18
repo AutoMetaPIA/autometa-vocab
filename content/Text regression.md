@@ -6,13 +6,18 @@ ML_area:
 ML_task: true
 ML_approach:
 ---
-## Scope note
+
+#### Scope note
 "Predicting numeric values for texts." ([MetaAutoML GitHub repo](https://github.com/hochschule-darmstadt/MetaAutoML/blob/main/controller/managers/ontology/ML_Ontology.ttl))
-## Preferredness
 
-## Term relationships
-- BT: [[Regression]]
-- BT: [[Natural language processing]]
-## Maps to external vocabularies
+#### Use for
 
+#### Broader terms
+- [[Regression]]
+- [[Natural language processing]]
 
+#### Narrower terms
+
+#### Related terms
+
+#### Maps to external vocabularies

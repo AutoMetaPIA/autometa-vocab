@@ -6,14 +6,18 @@ ML_area:
 ML_task:
 ML_approach: true
 ---
-## Scope note
-Source: []()
-## Preferredness
 
-## Term relationships
-- BT: [[Artificial neural network]]
-- NT: [[Generative artificial intelligence]]
-- RT: [[Natural language processing]]
-## Maps to external vocabularies
+#### Scope note
 
+#### Use for
 
+#### Broader terms
+- [[Artificial neural network]]
+
+#### Narrower terms
+- [[Generative artificial intelligence]]
+
+#### Related terms
+- [[Natural language processing]]
+
+#### Maps to external vocabularies
