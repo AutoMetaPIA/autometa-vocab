@@ -11,21 +11,46 @@ lcc: Q325.73
 lcshAltLabel:
   - Learning, Deep (Machine learning)
 lcshBroader:
-  - "[[Iterative methods (Mathematics)]]"
-  - "[[Machine learning]]"
-  - "[[Natural computation]]"
-  - "[[Artificial neural network]]"
+  - Iterative methods (Mathematics)
+  - Machine learning
+  - Natural computation
+  - Artificial neural network
 ---
 
-#### Scope note
+> [!sn]
+> #### Scope note
+> "Specialized form of machine learning that uses artificial neural networks to identify patterns in data" ([Wikidata](https://www.wikidata.org/wiki/Q197536))
 
-#### Use for
+> [!tr]
+> #### Term Relationships
+>
+>
+> 
+> ##### Use for
+> 
+> ##### Broader terms
+> [[Artificial neural network]]
+> 
+> ##### Narrower terms
+> [[Large language model]]
+> 
+> ##### Related terms
 
-#### Broader terms
 
-#### Narrower terms
-
-#### Related terms
-
-
-#### Maps to external vocabularies
+> [!lcsh]
+> #### Map to the Library of Congress Subject Headings (LCSH)
+>
+>
+> **Term**: Deep learning (Machine learning)
+> 
+> **Term URI**: [https://id.loc.gov/authorities/subjects/sh2021006947](https://id.loc.gov/authorities/subjects/sh2021006947)
+> %%lcc: Q325.73%%
+> 
+> **Use for**:
+>   - Learning, Deep (Machine learning)
+> 
+> **Broader Terms**:
+>   - Iterative methods (Mathematics)
+>   - Machine learning
+>   - Natural computation
+>   - Artificial neural network

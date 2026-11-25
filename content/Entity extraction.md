@@ -7,5 +7,6 @@ ML_task: true
 ML_approach:
 ---
 
-#### Use instead
-- [[Named entity recognition]]
+> [!use]
+> #### Use instead
+> - [[Named entity recognition]]

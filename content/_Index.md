@@ -13,10 +13,11 @@
 		- lcshURI:: "https://id.loc.gov/authorities/subjects/sh85111380"
 		- lcc:: "QA278.75"
 		- lcshAltLabel:: ["Selection and ranking (Statistics)"]
-		- lcshBroader:: ["[[Mathematical statistics]]"]
-		- lcshNarrower:: ["[[Scaling laws (Statistical physics)]]"]
-		- lcshRelated:: ["[[Order statistics]]"]
-#### Scope note
+		- lcshBroader:: ["[[Mathematical statistics]
+		- lcshNarrower:: ["[[Scaling laws (Statistical physics)]
+		- lcshRelated:: ["[[Order statistics]
+> [!sn]
+> #### Scope note
 		- "Ordering items in a set by criteria" ([MetaAutoML GitHub repo](https://github.com/hochschule-darmstadt/MetaAutoML/blob/main/controller/managers/ontology/ML_Ontology.ttl))
 	- [ ] check for sh for "Unsupervised learning"
 - [ ] whittle down lcsh BT, NT, and RT

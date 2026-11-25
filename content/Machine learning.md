@@ -11,33 +11,46 @@ lcc: Q325.5
 lcshAltLabel:
   - Learning, Machine
 lcshBroader:
-  - "[[Artificial intelligence]]"
-  - "[[Machine theory]]"
-lcshNarrower:
-  - "[[Learning classifier systems]]"
-  - "[[Programming by example (Computer science)]]"
-  - "[[Ripple-down rules (Machine learning)]]"
-  - "[[Ensemble learning (Machine learning)]]"
-  - "[[Transfer learning (Machine learning)]]"
-  - "[[Deep learning (Machine learning)]]"
-  - "[[Federated learning (Machine learning)]]"
-  - "[[Event detection]]"
-  - "[[Generative adversarial networks (Computer networks)]]"
-  - "[[Explanation-based learning]]"
+  - Artificial intelligence
+  - Machine theory
 ---
 
-#### Scope note
+> [!sn]
+> #### Scope note
+> "Scientific study of algorithms and statistical models that computer systems use to perform tasks without explicit instructions" ([Wikidata](https://www.wikidata.org/wiki/Q2539))
 
-#### Use for
+> [!tr]
+> #### Term Relationships
+>
+>
+> 
+> ##### Use for
+> 
+> ##### Broader terms
+> - [[Artificial intelligence]]
+> 
+> ##### Narrower terms
+> - [[Reinforcement learning]]
+> - [[Supervised learning]]
+> - [[Unsupervised learning]]
+> - [[Active learning]]
+> - [[Online learning]]
+> 
+> ##### Related terms
 
-#### Broader terms
-- [[Artificial intelligence]]
-
-#### Narrower terms
-- [[Reinforcement learning]]
-- [[Supervised learning]]
-- [[Unsupervised learning]]
-
-#### Related terms
-
-#### Maps to external vocabularies
+> [!lcsh]
+> #### Map to the Library of Congress Subject Headings (LCSH)
+>
+>
+> **Term**: Machine learning
+> 
+> **Term URI**: [https://id.loc.gov/authorities/subjects/sh85079324](https://id.loc.gov/authorities/subjects/sh85079324)
+>%% lcc: Q325.5%%
+> 
+> **Use for**:
+>   - Learning, Machine
+> 
+> **Broader Terms**:
+>   - Artificial intelligence
+>   - Machine theory
+>   

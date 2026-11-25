@@ -3,21 +3,28 @@ tags:
   - preferred
 vocab: ml-ontology
 ML_area:
-ML_task:
+ML_task: true
 ML_approach:
 ---
 
-#### Scope note
+> [!sn]
+> #### Scope note
 "Predicting categories (classes) for texts." ([MetaAutoML GitHub repo](https://github.com/hochschule-darmstadt/MetaAutoML/blob/main/controller/managers/ontology/ML_Ontology.ttl))
 
-#### Use for
+> [!tr]
+> #### Term Relationships
+>
+>
+> ##### Use for
+> 
+> ##### Broader terms
+> - [[Classification]]
+> - [[Natural language processing]]
+> 
+> ##### Narrower terms
+> 
+> ##### Related terms
 
-#### Broader terms
-- [[Classification]]
-- [[Natural language processing]]
-
-#### Narrower terms
-
-#### Related terms
-
-#### Maps to external vocabularies
+> [!lcsh]
+> #### Map to the Library of Congress Subject Headings (LCSH)
+>

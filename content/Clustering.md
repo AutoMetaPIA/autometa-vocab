@@ -8,24 +8,44 @@ ML_approach:
 lcsh: Cluster analysis
 lcshURI: https://id.loc.gov/authorities/subjects/sh85027250
 lcshBroader:
-  - "[[Correlation (Statistics)]]"
-  - "[[Multivariate analysis]]"
+  - Correlation (Statistics)
+  - Multivariate analysis
 lcshNarrower:
-  - "[[Document clustering]]"
-  - "[[Hierarchical clustering (Cluster analysis)]]"
+  - Document clustering
+  - Hierarchical clustering (Cluster analysis)
 ---
 
-#### Scope note
+> [!sn]
+> #### Scope note
 "Grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense or another) to each other than to those in other groups."  ([MetaAutoML GitHub repo](https://github.com/hochschule-darmstadt/MetaAutoML/blob/main/controller/managers/ontology/ML_Ontology.ttl))
 
-#### Use for
+> [!tr]
+> #### Term Relationships
+>
+>
+> 
+> ##### Use for
+> 
+> ##### Broader terms
+> - [[Unsupervised learning]]
+> 
+> ##### Narrower terms
+> 
+> ##### Related terms
+> - [[Classification]]
 
-#### Broader terms
-- [[Unsupervised learning]]
-
-#### Narrower terms
-
-#### Related terms
-- [[Classification]]
-
-#### Maps to external vocabularies
+> [!lcsh]
+> #### Map to the Library of Congress Subject Headings (LCSH)
+>
+>
+> **Term**: Cluster analysis
+> 
+> **Term URI**: [https://id.loc.gov/authorities/subjects/sh85027250](https://id.loc.gov/authorities/subjects/sh85027250)
+> 
+> **Broader Terms**:
+>   - Correlation (Statistics)
+>   - Multivariate analysis
+> 
+> **Narrower Terms**:
+>   - Document clustering
+>   - Hierarchical clustering (Cluster analysis)

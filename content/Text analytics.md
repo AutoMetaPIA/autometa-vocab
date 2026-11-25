@@ -7,5 +7,6 @@ ML_task: true
 ML_approach:
 ---
 
-#### Use instead
-- [[Natural language processing]]
+> [!use]
+> #### Use instead
+> - [[Natural language processing]]

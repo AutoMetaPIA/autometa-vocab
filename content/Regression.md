@@ -12,34 +12,62 @@ lcshAltLabel:
   - Regression modeling
   - Linear regression
 lcshBroader:
-  - "[[Multivariate analysis]]"
-  - "[[Artificial intelligence]]"
-  - "[[Machine learning]]"
+  - Multivariate analysis
+  - Artificial intelligence
+  - Machine learning
 lcshNarrower:
-  - "[[Logistic regression analysis]]"
-  - "[[Multilevel models (Statistics)]]"
-  - "[[Mediation (Statistics)]]"
-  - "[[Errors-in-variables models]]"
-  - "[[Quantile regression]]"
-  - "[[Analysis of covariance]]"
-  - "[[Autoregression (Statistics)]]"
-  - "[[Correlation (Statistics)]]"
-  - "[[Log-linear models]]"
-  - "[[Multicollinearity]]"
-lcshRelated:
-  - "[[Structural equation modeling]]"
+  - Logistic regression analysis
+  - Multilevel models (Statistics)
+  - Quantile regression
+  - Analysis of covariance
+  - Autoregression (Statistics)
+  - Correlation (Statistics)
+  - Log-linear models
+  - Multicollinearity
 ---
 
-#### Scope note
+> [!sn]
+> #### Scope note
 "Predicting continuous numerical values."  ([MetaAutoML GitHub repo](https://github.com/hochschule-darmstadt/MetaAutoML/blob/main/controller/managers/ontology/ML_Ontology.ttl))
 
-#### Use for
+> [!tr]
+> #### Term Relationships
+>
+>
+> 
+> ##### Use for
+> 
+> ##### Broader terms
+> - [[Supervised learning]]
+> 
+> ##### Narrower terms
+> 
+> ##### Related terms
 
-#### Broader terms
-- [[Supervised learning]]
-
-#### Narrower terms
-
-#### Related terms
-
-#### Maps to external vocabularies
+> [!lcsh]
+> #### Map to the Library of Congress Subject Headings (LCSH)
+>
+>
+> **Term**: Regression analysis
+> 
+> **Term URI**: [https://id.loc.gov/authorities/subjects/sh85112392](https://id.loc.gov/authorities/subjects/sh85112392)
+> 
+> **Use for**:
+>   - Analysis, Regression
+>   - Regression modeling
+>   - Linear regression
+> 
+> **Broader Terms**:
+>   - Multivariate analysis
+>   - Artificial intelligence
+>   - Machine learning
+> 
+> **Narrower Terms**:
+>   - Logistic regression analysis
+>   - Multilevel models (Statistics)
+>   - Quantile regression
+>   - Analysis of covariance
+>   - Autoregression (Statistics)
+>   - Correlation (Statistics)
+>   - Log-linear models
+>   - Multicollinearity

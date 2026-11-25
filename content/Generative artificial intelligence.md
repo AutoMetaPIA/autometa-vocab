@@ -12,19 +12,37 @@ lcshAltLabel:
   - Generative AI
   - GAI
 lcshBroader:
-  - "[[Artificial intelligence]]"
+  - Artificial intelligence
 ---
 
-#### Scope note
+> [!sn]
+> #### Scope note
+> "Artificial intelligence model capable of generating content in response to a prompt" ([Wikidata](https://www.wikidata.org/wiki/Q117246174))
 
-#### Use for
-- [[GenAI]]
+> [!tr]
+> #### Term Relationships
+> ##### Use for
+> - [[GenAI]]
+> 
+> ##### Broader terms
+> - [[Large language model]]
+> 
+> ##### Narrower terms
+> 
+> ##### Related terms
 
-#### Broader terms
-- [[Large language model]]
-
-#### Narrower terms
-
-#### Related terms
-
-#### Maps to external vocabularies
+> [!lcsh]
+> #### Map to the Library of Congress Subject Headings (LCSH)
+>
+>
+> **Term**: Generative artificial intelligence
+> 
+> **Term URI**: [https://id.loc.gov/authorities/subjects/sh2024002684](https://id.loc.gov/authorities/subjects/sh2024002684)
+> 
+> **Use for**:
+>   - GenAI
+>   - Generative AI
+>   - GAI
+> 
+> **Broader Terms**:
+>   - Artificial intelligence

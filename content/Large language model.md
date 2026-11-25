@@ -7,17 +7,26 @@ ML_task:
 ML_approach: true
 ---
 
-#### Scope note
+> [!sn]
+> #### Scope note
+> "Language model built with very large amounts of texts" ([Wikidata](https://www.wikidata.org/wiki/Q115305900))
 
-#### Use for
+> [!tr]
+> #### Term Relationships
+>
+>
+> 
+> ##### Use for
+> 
+> ##### Broader terms
+> - [[Artificial neural network]]
+> 
+> ##### Narrower terms
+> - [[Generative artificial intelligence]]
+> 
+> ##### Related terms
+> - [[Natural language processing]]
 
-#### Broader terms
-- [[Artificial neural network]]
-
-#### Narrower terms
-- [[Generative artificial intelligence]]
-
-#### Related terms
-- [[Natural language processing]]
-
-#### Maps to external vocabularies
+> [!lcsh]
+> #### Map to the Library of Congress Subject Headings (LCSH)
+>
