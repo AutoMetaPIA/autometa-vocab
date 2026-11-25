@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: AutoMeta Vocab
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -11,7 +11,10 @@ configuration:
   ignorePatterns:
     - private
     - templates
+    - linked-data-vocabularies
     - .obsidian
+    - sandbox
+    - content/sandbox
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
