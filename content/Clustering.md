@@ -24,20 +24,16 @@ lcshNarrower:
 >
 >
 > 
-> ##### Use for
-> 
+>  
 > ##### Broader terms
 > - [[Unsupervised learning]]
 > 
-> ##### Narrower terms
 > 
 > ##### Related terms
 > - [[Classification]]
 
 > [!lcsh]
 > #### Map to the Library of Congress Subject Headings (LCSH)
->
->
 > **Term**: Cluster analysis
 > 
 > **Term URI**: [https://id.loc.gov/authorities/subjects/sh85027250](https://id.loc.gov/authorities/subjects/sh85027250)

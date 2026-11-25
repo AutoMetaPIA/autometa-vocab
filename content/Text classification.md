@@ -14,17 +14,7 @@ ML_approach:
 > [!tr]
 > #### Term Relationships
 >
->
-> ##### Use for
 > 
 > ##### Broader terms
 > - [[Classification]]
 > - [[Natural language processing]]
-> 
-> ##### Narrower terms
-> 
-> ##### Related terms
-
-> [!lcsh]
-> #### Map to the Library of Congress Subject Headings (LCSH)
->

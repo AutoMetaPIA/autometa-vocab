@@ -26,21 +26,15 @@ lcshBroader:
 >
 >
 > 
-> ##### Use for
-> 
+>  
 > ##### Broader terms
 > [[Artificial neural network]]
 > 
 > ##### Narrower terms
 > [[Large language model]]
-> 
-> ##### Related terms
-
 
 > [!lcsh]
 > #### Map to the Library of Congress Subject Headings (LCSH)
->
->
 > **Term**: Deep learning (Machine learning)
 > 
 > **Term URI**: [https://id.loc.gov/authorities/subjects/sh2021006947](https://id.loc.gov/authorities/subjects/sh2021006947)

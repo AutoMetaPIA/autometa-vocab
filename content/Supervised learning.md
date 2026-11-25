@@ -23,8 +23,7 @@ lcshBroader:
 >
 >
 > 
-> ##### Use for
-> 
+>  
 > ##### Broader terms
 > - [[Machine learning]]
 > 
@@ -43,8 +42,6 @@ lcshBroader:
 
 > [!lcsh]
 > #### Map to the Library of Congress Subject Headings (LCSH)
->
->
 > **Term**: Supervised learning (Machine learning)
 > 
 > **Term URI**: [https://id.loc.gov/authorities/subjects/sh94008290](https://id.loc.gov/authorities/subjects/sh94008290)

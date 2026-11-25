@@ -16,8 +16,7 @@ ML_approach: true
 >
 >
 > 
-> ##### Use for
-> 
+>  
 > ##### Broader terms
 > - [[Artificial neural network]]
 > 
@@ -27,6 +26,3 @@ ML_approach: true
 > ##### Related terms
 > - [[Natural language processing]]
 
-> [!lcsh]
-> #### Map to the Library of Congress Subject Headings (LCSH)
->

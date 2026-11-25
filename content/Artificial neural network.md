@@ -30,8 +30,6 @@ lcshNarrower:
 
 > [!tr]
 > #### Term relationships
->
-> ##### Use for
 > 
 > ##### Broader terms
 > - [[Supervised learning]]
@@ -39,12 +37,9 @@ lcshNarrower:
 > 
 > ###### Narrower terms
 > - [[Large language model]]
-> 
-> ###### Related terms
 
 > [!lcsh]
 > #### Map to the Library of Congress Subject Headings (LCSH)
->
 > **Term**: Neural networks (Computer science)
 > 
 > **Term URI**: [https://id.loc.gov/authorities/subjects/sh90001937](https://id.loc.gov/authorities/subjects/sh90001937)

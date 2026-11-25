@@ -27,14 +27,9 @@ lcshBroader:
 > ##### Broader terms
 > - [[Large language model]]
 > 
-> ##### Narrower terms
-> 
-> ##### Related terms
 
 > [!lcsh]
 > #### Map to the Library of Congress Subject Headings (LCSH)
->
->
 > **Term**: Generative artificial intelligence
 > 
 > **Term URI**: [https://id.loc.gov/authorities/subjects/sh2024002684](https://id.loc.gov/authorities/subjects/sh2024002684)

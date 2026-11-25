@@ -12,13 +12,9 @@ ML_approach: true
 
 > [!tr]
 > #### Term Relationships
->
-> ##### Use for
 > 
 > ##### Broader terms
 > - [[Machine learning]]
-> 
-> ##### Narrower terms
 > 
 > ##### Related terms
 > - [[Reinforcement learning]]
@@ -26,6 +22,3 @@ ML_approach: true
 > - [[Unsupervised learning]]
 > - [[Online learning]]
 
-> [!lcsh]
-> #### Map to the Library of Congress Subject Headings (LCSH)
->

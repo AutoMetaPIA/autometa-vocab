@@ -33,21 +33,12 @@ lcshNarrower:
 > [!tr]
 > #### Term Relationships
 >
->
-> 
-> ##### Use for
-> 
 > ##### Broader terms
 > - [[Supervised learning]]
 > 
-> ##### Narrower terms
-> 
-> ##### Related terms
 
 > [!lcsh]
 > #### Map to the Library of Congress Subject Headings (LCSH)
->
->
 > **Term**: Regression analysis
 > 
 > **Term URI**: [https://id.loc.gov/authorities/subjects/sh85112392](https://id.loc.gov/authorities/subjects/sh85112392)

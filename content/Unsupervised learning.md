@@ -13,11 +13,7 @@ ML_approach:
 
 > [!tr]
 > #### Term Relationships
->
->
-> 
-> ##### Use for
-> 
+>> 
 > ##### Broader terms
 > - [[Machine learning]]
 > 
@@ -32,7 +28,4 @@ ML_approach:
 > - [[Active learning]]
 > - [[Online learning]]
 
-> [!lcsh]
-> #### Map to the Library of Congress Subject Headings (LCSH)
->
 

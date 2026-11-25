@@ -18,15 +18,9 @@ ML_approach:
 > 
 > ##### Use for
 > - [[Entity extraction]]
-> 
+>  
 > ##### Broader terms
 > - [[Natural language processing]]
 > - [[Supervised learning]]
 > 
-> ##### Narrower terms
 > 
-> ##### Related terms
-
-> [!lcsh]
-> #### Map to the Library of Congress Subject Headings (LCSH)
->

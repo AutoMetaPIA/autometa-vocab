@@ -22,11 +22,9 @@ lcshBroader:
 > [!tr]
 > #### Term Relationships
 >
->
-> 
 > ##### Use for
 > - [[Text analytics]]
-> 
+>  
 > ##### Broader terms
 > - [[Supervised learning]]
 > - [[Unsupervised learning]]
@@ -34,12 +32,9 @@ lcshBroader:
 > ##### Narrower terms
 > - [[Large language model]]
 > 
-> ##### Related terms
 
 > [!lcsh]
 > #### Map to the Library of Congress Subject Headings (LCSH)
->
->
 > **Term**: Natural language processing (Computer science)
 > 
 > **Term URI**: [https://id.loc.gov/authorities/subjects/sh88002425](https://id.loc.gov/authorities/subjects/sh88002425)

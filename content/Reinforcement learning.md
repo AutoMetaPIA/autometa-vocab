@@ -22,12 +22,10 @@ lcshRelated:
 >
 >
 > 
-> ##### Use for
-> 
+>  
 > ##### Broader terms
 > - [[Machine learning]]
 > 
-> ##### Narrower terms
 > 
 > ##### Related terms
 > - [[Supervised learning]]
@@ -37,8 +35,6 @@ lcshRelated:
 
 > [!lcsh]
 > #### Map to the Library of Congress Subject Headings (LCSH)
->
->
 > **Term**: Reinforcement learning
 > 
 > **Term URI**: [https://id.loc.gov/authorities/subjects/sh92000704](https://id.loc.gov/authorities/subjects/sh92000704)

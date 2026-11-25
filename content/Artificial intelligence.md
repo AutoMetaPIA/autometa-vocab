@@ -39,19 +39,11 @@ lcshRelated:
 > [!tr]
 > #### Term Relationships
 >
->
-> ##### Use for
-> 
-> ##### Broader terms
-> 
 > ##### Narrower terms
 > - [[Machine learning]]
-> 
-> ##### Related terms
 
 > [!lcsh]
 > #### Map to the Library of Congress Subject Headings (LCSH)
->
 > **Term**: Artificial intelligence
 > 
 > **Term URI**: [https://id.loc.gov/authorities/subjects/sh85008180](https://id.loc.gov/authorities/subjects/sh85008180)

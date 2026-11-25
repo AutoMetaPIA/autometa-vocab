@@ -19,22 +19,14 @@ lcshBroader:
 
 > [!tr]
 > #### Term Relationships
->
-> 
-> ##### Use for
-> 
 > ##### Broader terms
 > - [[Supervised learning]]
 > 
 > ##### Narrower terms
 > - [[Text classification]]
-> 
-> ##### Related terms
 
 > [!lcsh]
 > #### Map to the Library of Congress Subject Headings (LCSH)
->
->
 > **Term**: Automatic classification
 > 
 > **Term URI**: [https://id.loc.gov/authorities/subjects/sh85010088](https://id.loc.gov/authorities/subjects/sh85010088)

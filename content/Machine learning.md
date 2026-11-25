@@ -21,11 +21,6 @@ lcshBroader:
 
 > [!tr]
 > #### Term Relationships
->
->
-> 
-> ##### Use for
-> 
 > ##### Broader terms
 > - [[Artificial intelligence]]
 > 
@@ -35,13 +30,9 @@ lcshBroader:
 > - [[Unsupervised learning]]
 > - [[Active learning]]
 > - [[Online learning]]
-> 
-> ##### Related terms
 
 > [!lcsh]
 > #### Map to the Library of Congress Subject Headings (LCSH)
->
->
 > **Term**: Machine learning
 > 
 > **Term URI**: [https://id.loc.gov/authorities/subjects/sh85079324](https://id.loc.gov/authorities/subjects/sh85079324)
